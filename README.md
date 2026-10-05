@@ -336,42 +336,6 @@ PostgreSQL Database
 
 This distinction is intentional to maintain technical transparency and avoid representing planned functionality as already implemented.
 
----
-
-## 🧑‍⚖️ For Project Demonstration / Evaluation
-
-### If asked: "Backend kaha hai?"
-
-A clear and honest response is:
-
-> **"Currently, we have developed the complete frontend MVP for demonstrating the user journey. The backend architecture is designed using Node.js and Express with PostgreSQL, and it will be integrated in the next implementation phase."**
-
-### If asked: "Database implemented hai?"
-
-You can say:
-
-> **"PostgreSQL is our proposed database layer. The current MVP focuses on the frontend experience, while database integration is planned for the next phase."**
-
-### If asked: "Authentication kaise hoga?"
-
-You can say:
-
-> **"The planned authentication system uses mobile OTP with role-based authentication for farmers and buyers, along with verification workflows."**
-
----
-
-## 💡 Why This Architecture?
-
-The proposed architecture provides:
-
-* **Scalability** through a dedicated backend API
-* **Maintainability** through separation of frontend and backend
-* **Data consistency** using PostgreSQL
-* **Security** through authentication and role-based access
-* **Flexibility** for future mobile or third-party clients
-* **Easy deployment** through a cloud-based full-stack setup
-
----
 
 ## 🏁 Conclusion
 

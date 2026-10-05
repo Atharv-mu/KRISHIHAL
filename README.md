@@ -1,8 +1,8 @@
-# 🌾 Farmer–Buyer Platform
+# 🌾 A Digital Platform which gives farmer the fare price as per the market
 
-A web-based platform designed to connect **farmers and buyers** through a simple, accessible, and scalable digital interface.
+A web-based platform designed to connect farmers and buyers through a simple, accessible, and scalable digital interface.
 
-The project currently focuses on delivering a **Frontend MVP** that demonstrates the complete user journey and core interface. The backend, database, authentication, and production full-stack integration are planned as the next implementation phase.
+The project currently focuses on delivering a Frontend MVP that demonstrates the complete user journey and core interface. The backend, database, authentication, and production full-stack integration are planned as the next implementation phase.
 
 ---
 
@@ -25,39 +25,39 @@ The current version is focused on demonstrating:
 
 ### Frontend — Prototype Ready
 
-* **HTML5**
-* **Tailwind CSS**
-* **JavaScript**
-* **Lucide Icons**
+* HTML5
+* Tailwind CSS
+* JavaScript
+* Lucide Icons
 
 The frontend is currently implemented and serves as the working MVP for demonstrating the platform's user experience.
 
 ### Backend — Proposed
 
-* **Node.js**
-* **Express.js**
-* **REST APIs**
+* Node.js
+* Express.js
+* REST APIs
 
 The backend architecture is planned to handle business logic, API communication, user management, and data processing.
 
 ### Database — Proposed
 
-* **PostgreSQL**
+* PostgreSQL
 
 PostgreSQL is planned as the primary relational database for storing users, farmer/buyer profiles, products, transactions, and other application data.
 
 ### Authentication — Proposed
 
-* **Mobile OTP Authentication**
-* **Role-Based Authentication**
-* **Farmer Verification**
-* **Buyer Verification**
+* Mobile OTP Authentication
+* Role-Based Authentication
+* Farmer Verification
+* Buyer Verification
 
 Authentication and verification workflows will be integrated during the backend implementation phase.
 
 ### Deployment — Target
 
-* **Render**
+* Render
 * Full-stack deployment
 
 The target deployment architecture is intended to host the frontend/backend application and supporting services through a production-ready setup.
@@ -334,7 +334,7 @@ PostgreSQL Database
 | Farmer/Buyer Verification    | 🔄 Proposed   |
 | Full-Stack Render Deployment | 🔄 Target     |
 
-This distinction is intentional to maintain **technical transparency** and avoid representing planned functionality as already implemented.
+This distinction is intentional to maintain technical transparency and avoid representing planned functionality as already implemented.
 
 ---
 

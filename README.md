@@ -1,4 +1,4 @@
-# 🌾 A Digital Platform which gives farmer the fare price as per the market
+# 🌾 A Digital Platform which gives farmer the fare price as per the market demand
 
 A web-based platform designed to connect farmers and buyers through a simple, accessible, and scalable digital interface.
 
@@ -23,7 +23,7 @@ The current version is focused on demonstrating:
 
 ## 🛠️ Technical Stack
 
-### Frontend — Prototype Ready
+### Frontend (Prototype Ready)
 
 * HTML5
 * Tailwind CSS
@@ -32,7 +32,7 @@ The current version is focused on demonstrating:
 
 The frontend is currently implemented and serves as the working MVP for demonstrating the platform's user experience.
 
-### Backend — Proposed
+### Backend (Proposed)
 
 * Node.js
 * Express.js
@@ -40,13 +40,13 @@ The frontend is currently implemented and serves as the working MVP for demonstr
 
 The backend architecture is planned to handle business logic, API communication, user management, and data processing.
 
-### Database — Proposed
+### Database (Proposed)
 
 * PostgreSQL
 
 PostgreSQL is planned as the primary relational database for storing users, farmer/buyer profiles, products, transactions, and other application data.
 
-### Authentication — Proposed
+### Authentication — (Proposed)
 
 * Mobile OTP Authentication
 * Role-Based Authentication
@@ -55,8 +55,9 @@ PostgreSQL is planned as the primary relational database for storing users, farm
 
 Authentication and verification workflows will be integrated during the backend implementation phase.
 
-### Deployment — Target
+### Deployment
 
+* Currently at netlify/github
 * Render
 * Full-stack deployment
 
@@ -275,7 +276,7 @@ PostgreSQL Database
 
 ## 📊 Implementation Roadmap
 
-### Phase 1 — Frontend MVP ✅
+### Phase 1 (Frontend MVP ✅)
 
 * [x] User interface
 * [x] Responsive frontend
@@ -284,7 +285,7 @@ PostgreSQL Database
 * [x] Core navigation
 * [x] Frontend deployment
 
-### Phase 2 — Backend 🔄
+### Phase 2 (Backend 🔄)
 
 * [ ] Node.js setup
 * [ ] Express.js API
@@ -292,7 +293,7 @@ PostgreSQL Database
 * [ ] Business logic
 * [ ] API validation
 
-### Phase 3 — Database 🔄
+### Phase 3 (Database 🔄)
 
 * [ ] PostgreSQL setup
 * [ ] Database schema
@@ -301,7 +302,7 @@ PostgreSQL Database
 * [ ] Buyer profiles
 * [ ] Product data
 
-### Phase 4 — Authentication 🔄
+### Phase 4 (Authentication 🔄)
 
 * [ ] Mobile OTP
 * [ ] Role-based authentication
@@ -309,7 +310,7 @@ PostgreSQL Database
 * [ ] Buyer verification
 * [ ] Protected API routes
 
-### Phase 5 — Full-Stack Deployment 🔄
+### Phase 5 (Full-Stack Deployment 🔄)
 
 * [ ] Frontend + backend integration
 * [ ] PostgreSQL production setup
@@ -339,13 +340,13 @@ This distinction is intentional to maintain technical transparency and avoid rep
 
 ## 🏁 Conclusion
 
-This project currently delivers a **working Frontend MVP** that demonstrates the intended farmer-buyer experience.
+This project currently delivers a working Frontend MVP that demonstrates the intended farmer-buyer experience.
 
 The next implementation phase will transform the prototype into a complete full-stack application by integrating:
 
 **Node.js + Express.js + REST APIs + PostgreSQL + OTP Authentication + Role-Based Access Control**
 
-The architecture is intentionally documented as **proposed** where implementation is not yet complete, ensuring that the project presentation remains both **professional and technically honest**.
+The architecture is intentionally documented as proposed where implementation is not yet complete, ensuring that the project presentation remains both professional and technically honest.
 
 ---
 

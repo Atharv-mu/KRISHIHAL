@@ -46,7 +46,7 @@ The backend architecture is planned to handle business logic, API communication,
 
 PostgreSQL is planned as the primary relational database for storing users, farmer/buyer profiles, products, transactions, and other application data.
 
-### Authentication — (Proposed)
+### Authentication (Proposed)
 
 * Mobile OTP Authentication
 * Role-Based Authentication
@@ -57,7 +57,7 @@ Authentication and verification workflows will be integrated during the backend 
 
 ### Deployment
 
-* Currently at netlify/github
+* Currently at netlify/github only (frontend mvp)
 * Render
 * Full-stack deployment
 
